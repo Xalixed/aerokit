@@ -1,1 +1,1 @@
-{"title":"announcement test","content":"posted: 9/20/2025 2:48 PM\ntesting!"}
+{"title":"testing announcements","content":"posted: 9/20/2025 4:30 PM\nhello i am testing the announcements i am working on v2.0.0 right now and i am testing the announcements to see if they work and if updating it works i sure hope it does woohoo yippee yeah!"}
