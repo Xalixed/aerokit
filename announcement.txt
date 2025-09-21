@@ -1,1 +1,1 @@
-{"title":"announcement test","content":"posted: 9/20/2025 4:44 PM\ni am testing announcement display and updating announcement. yes i am doing that. yes. i am testing it. i am testing it so good. ouugh."}
+{"title":"annouincement testing 2","content":"posted: 9/21/2025 12:12 PM\ni am testing the annoiucnement again because a few times it seems like it didnt work so i need to see if it does again"}
