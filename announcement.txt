@@ -1,1 +1,1 @@
-{"title":"hello this is the announcement","content":"posted: 9/22/2025 11:53 AM\nhi hello I am demonstrating this to my friend David hi David !!!!!!!! :))))"}
+{"title":"v2.0.1 is out","content":"posted: 9/23/2025 11:08 AM\nits out guys yeahghh woo<br>\n-removed update tab because it wasnt done<br>\n-fixed being unable to remove items from the portal<br>\n-maybe fixed some bug with the buttons idk if there was one but the code was a bit wrong and I fixed it maybe it fixed something idk but i hope it did"}
